@@ -9,4 +9,4 @@ ___
 ![MiniMax](screenshots/screenshot1.png)
 
 #####Alpha Beta Pruning
-![Alpha Beta Pruning](screenshots/screenshot1.png)
+![Alpha Beta Pruning](screenshots/screenshot2.png)
